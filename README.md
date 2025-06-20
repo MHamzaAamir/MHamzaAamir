@@ -49,7 +49,7 @@
 ### 🤝 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/hamzaAamirDev)  
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:maamir.bscs21seecs@seecs.edu.pk)
+📧 Email: maamir.bscs21seecs@seecs.edu.pk
 
 ---
 
