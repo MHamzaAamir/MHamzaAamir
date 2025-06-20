@@ -40,8 +40,8 @@
 
 ### 📜 Certifications
 
-- [✅ Machine Learning Specialization (DeepLearning.AI)](https://www.coursera.org/account/accomplishments/specialization/H5106SNX36Y6)
-- [✅ TensorFlow Developer Certificate](https://coursera.org/share/438b9d58b66c33aca494ed219b90406d)
+- [✅ TensorFlow Developer Certificate (DeepLearning.AI)](https://www.coursera.org/account/accomplishments/specialization/H5106SNX36Y6)
+- [✅ Machine Learning Specialization (DeepLearning.AI)](https://coursera.org/share/438b9d58b66c33aca494ed219b90406d)
 - [✅ DSA in Go (Educative.io)](https://www.educative.io/verify-certificate/VmBEWXTX02xBz4PNytEOqLWlnk3DCr)
 
 ---
