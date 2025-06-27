@@ -9,7 +9,8 @@
 ### 👨‍💻 About Me
 
 - 🎓 Computer Science graduate from **NUST**
-- 🔧 Experienced in building scalable backend systems
+- ⚒️ Experienced in building Full Stack Applications in NextJS
+- 🔧 Experienced in building scalable backend systems in NodeJS
 - 🤖 Passionate about **machine learning**, **LLMs**, and **AI system design**
 - 🧠 Continuously learning — aiming to grow as a **professional AI Engineer**
 
@@ -23,7 +24,7 @@
 - **Emotion Classification using Gemini** – Fine-tuned Gemini 1.5 for multi-label emotion prediction  
 - **American Sign Language Detector** – Real-time ASL detection using MediaPipe and Decision Trees  
 - **Country Graph** - Visualized a world map using graph data structures to explore algorithms like DFS, BFS, and shortest paths on real country relationships.
-- **Food Ordering Web App** – Full-stack system with maps, user dashboard, rider dashboard and authentication system.
+- **Video Editing Agency Website** – Built and deployed a full-stack Next.js app with a responsive landing page and secure admin panel for dynamic content management. [View](https://thepremieredits.com/) 
 
 👉 *Explore all repos at [github.com/MHamzaAamir](https://github.com/MHamzaAamir?tab=repositories)*
 
