@@ -1,7 +1,7 @@
 <h1>Muhammad Hamza Aamir</h1>
 
 <p>
-  💻 Full-Stack Developer | 🤖 AI & Deep Learning Enthusiast
+Software Engineer | Full Stack Dev | AI & Deep Learning Enthusiast
 </p>
 <p>
   
